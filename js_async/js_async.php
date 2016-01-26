@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: allisonseboldt
- * Date: 10/14/15
- * Time: 3:56 PM
- */
 
 defined('_JEXEC') or die;
 
